@@ -1,0 +1,67 @@
+{
+  "users": [
+    {
+      "name": "Shikhar Dhawan",
+      "username": "dhawansikhar",
+      "email": "dhawan@gmail.com",
+      "phone": "4569874563",
+      "id": 6
+    },
+    {
+      "name": "Virat Kohli",
+      "username": "viratkohli",
+      "email": "viratkohli@gmail.com",
+      "phone": "8596589658",
+      "id": 7
+    },
+    {
+      "name": "Pankaj Tripathi",
+      "username": "pankajtripathi",
+      "email": "pankaj@gmail.com",
+      "phone": "9658965236",
+      "id": 8
+    },
+    {
+      "name": "kk",
+      "username": "kh",
+      "email": "khu@gmail.com",
+      "phone": "55",
+      "id": 9
+    },
+    {
+      "name": "abc",
+      "username": "abcd",
+      "email": "khmn@gmail.com",
+      "phone": "55",
+      "id": 10
+    },
+    {
+      "name": "kk",
+      "username": "k",
+      "email": "khmn@gmail.com",
+      "phone": "555656",
+      "id": 13
+    },
+    {
+      "name": "bbb",
+      "username": "nnnnj",
+      "email": "see2@gmail.com",
+      "phone": "55",
+      "id": 14
+    },
+    {
+      "name": "kh mn",
+      "username": "khmn",
+      "email": "see2@gmail.com",
+      "phone": "28686",
+      "id": 15
+    },
+    {
+      "name": "kk",
+      "username": "18EMBMMEM40P200",
+      "email": "kk",
+      "phone": "6745855",
+      "id": 16
+    }
+  ]
+}
